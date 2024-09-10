@@ -1,0 +1,61 @@
+    1  cd Users
+    2  cd OneDrive\Masaüstü\HW_10
+    3  git config --global user.name "Duygu Dalkılıç"
+    4  git config --global user.email "duygudalkilic94@gmail.com
+    5  "
+    6  git config --global user.name
+    7  git config --global user.email
+    8  touch text_ignore.txt
+    9  git status
+   10  git add.
+   11  "git add."
+   12  cd /Users/duygu/OneDrive/Masaüstü/HW_10
+   13  cd C:/Users
+   14  cd duygu
+   15  cd OneDrive
+   16  cd Masaüstü
+   17  cd HW_10
+   18  git add . 
+   19  touch text_ignore.txt
+   20  git status
+   21  git add .
+   22  commit
+   23  git commit
+   24  cd /C:/Users/duygu/OneDrive
+   25  cd C:
+   26  USERS
+   27  cd Users
+   28  cd OneDrive/Masaüstü
+   29  cd OneDrive
+   30  cd OneDrive
+   31  cd duygu
+   32  cd Onedrive
+   33  cd Masaüstü
+   34  cd HW_10
+   35  touch main_test.txt
+   36  git add .
+   37  git commit
+   38  cd C:
+   39  cd Users/duygu
+   40  cd OneDrive/Masaüstü/HW_10
+   41  git checkout -b develop
+   42  touch develop_test.txt
+   43  git add .
+   44  git commit
+   45  cd C:/Users/duygu/OneDrive/Masaüstü/HW_10
+   46  nano develop_test.txt
+   47  cd C:/Users/duygu/OneDrive/Masaüstü/HW_10
+   48  git status
+   49  git add .
+   50  git commit
+   51  cd C:/uSERS/duygu/OneDrive/
+   52  cd Masaüstü/HW_10
+   53  git branch
+   54  git checkout main
+   55  git merge develop
+   56  git log
+   57  history
+   58  history
+   59  <<
+   60  histoy>command_list.csv
+   61  history>command_list.csv
